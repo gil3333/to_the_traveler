@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">אל המטייל</string>
+    <string name="home">בית</string>
+    <string name="search">חיפוש</string>
+    <string name="share">שיתוף</string>
+    <string name="settings">הגדרות</string>
+    <string name="change_language_to_hebrew">שנה שפה לעברית</string>
+    <string name="change_language_to_english">שנה שפה לאנגלית</string>
+    <string name="title_activity_animal_detail">פרטי בעל חיים</string>
+</resources>

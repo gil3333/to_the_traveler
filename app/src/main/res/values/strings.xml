@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To The Traveler</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="change_language_to_hebrew">Change language to Hebrew</string>
+    <string name="change_language_to_english">Switch to English</string>
+    <string name="title_activity_animal_detail">Animal Details</string>
+
+</resources>
